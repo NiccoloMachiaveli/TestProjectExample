@@ -24,6 +24,7 @@ namespace TestWPFAppForHotels
         public MainWindow()
         {
             InitializeComponent();
+            Hotel hotel = new Hotel();
         }
     }
 }
